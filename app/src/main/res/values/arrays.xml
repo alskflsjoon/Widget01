@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="androids">
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+    </string-array>
+</resources>
